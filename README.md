@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 ---
 
-## ⚙️ Configuración inicial
+## Configuración inicial
 
 Antes de usar la herramienta debes configurar tus credenciales.
 
@@ -200,7 +200,7 @@ QueryForge-AI/
 
 ---
 
-# 👨‍💻 Autor
+# Autor
 
 **Salazar Custodio**
 
