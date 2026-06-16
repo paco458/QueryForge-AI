@@ -1,0 +1,25 @@
+# Entorno virtual
+venv/
+
+# Variables de entorno
+.env
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Descargas
+Descargas/
+
+# Resultados generados
+resultados.html
+resultados.json
+
+# Archivos temporales
+*.log
+
+# VSCode
+.vscode/
+
+# JetBrains
+.idea/
