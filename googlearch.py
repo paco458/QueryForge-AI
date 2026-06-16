@@ -11,7 +11,7 @@ class GoogleSearch:
         api_key (str): Clave de API para acceder a SerpApi.
     """
 
-    def __init__(self, api_key, navegador):
+    def __init__(self, api_key, navegador="google"):
         """Inicializa una nueva instancia de GoogleSearch con la clave de API.
 
         Args:
